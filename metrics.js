@@ -1,0 +1,1 @@
+class Registry { toPrometheus() { return '# metrics'; } } module.exports = Registry;
